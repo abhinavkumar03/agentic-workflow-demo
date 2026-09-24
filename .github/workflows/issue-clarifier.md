@@ -10,7 +10,7 @@ permissions:
 
 engine:
   id: copilot
-  model: gpt-5-mini
+  model: auto
 
 safe-outputs:
   add-comment:
