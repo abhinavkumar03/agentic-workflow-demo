@@ -7,10 +7,9 @@ on:
 
 permissions:
   contents: read
-  issues: read
 
 engine:
-  id: codex
+  id: copilot
 
 safe-outputs:
   add-comment:
